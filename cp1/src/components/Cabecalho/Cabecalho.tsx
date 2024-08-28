@@ -9,5 +9,5 @@ export default function Cabecalho(){
             </div>
 
         </header>
-    )
+    );
 }

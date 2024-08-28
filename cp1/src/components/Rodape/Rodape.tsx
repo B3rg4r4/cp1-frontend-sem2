@@ -5,9 +5,9 @@ export default function Rodape(){
         <footer>
 
 
-            
+
         </footer>
 
 
-    )
+    );
 }
